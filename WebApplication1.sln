@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EEAF1BAA-07CC-4BFC-BA9A-BF0C0CE11822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example.API", "example.API\example.API.csproj", "{0191641D-0DA4-4196-BBBA-5566262A4CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "example.API", "example.API\example.API.csproj", "{0191641D-0DA4-4196-BBBA-5566262A4CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exampleTestXUNIT", "exampleTestXUNIT\exampleTestXUNIT.csproj", "{C11B5CA2-B71B-4F1E-AB23-669551644150}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0191641D-0DA4-4196-BBBA-5566262A4CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0191641D-0DA4-4196-BBBA-5566262A4CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0191641D-0DA4-4196-BBBA-5566262A4CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11B5CA2-B71B-4F1E-AB23-669551644150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11B5CA2-B71B-4F1E-AB23-669551644150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11B5CA2-B71B-4F1E-AB23-669551644150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11B5CA2-B71B-4F1E-AB23-669551644150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,6 +15,6 @@ namespace WebApplication1.Database
 
         public DbSet<Category> Category { get; set; }
 
-        public DbSet<WebApplication1.Models.Product> Product { get; set; }
+        public DbSet<Product> Product { get; set; }
     }
 }
