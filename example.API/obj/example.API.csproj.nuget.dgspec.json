@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj": {}
+    "F:\\Pedro\\Projetos\\MVC-Example\\example.API\\example.API.csproj": {}
   },
   "projects": {
-    "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj": {
+    "F:\\Pedro\\Projetos\\MVC-Example\\example.API\\example.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "F:\\Pedro\\Projetos\\MVC-Example\\example.API\\example.API.csproj",
+        "projectName": "example.API",
+        "projectPath": "F:\\Pedro\\Projetos\\MVC-Example\\example.API\\example.API.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\obj\\",
+        "outputPath": "F:\\Pedro\\Projetos\\MVC-Example\\example.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,26 +42,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.12, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.12, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.12, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

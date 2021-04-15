@@ -8752,11 +8752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cliente\\OneDrive\\Área de Trabalho\\Projetos\\MVC\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Cliente\\OneDrive\\Área de Trabalho\\Projetos\\MVC\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cliente\\OneDrive\\Área de Trabalho\\Projetos\\MVC\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8817,6 +8817,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8825,7 +8831,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

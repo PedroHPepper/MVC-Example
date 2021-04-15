@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQIprVFOSFUrI9mDPBCyh9NZQjqRfowmFSPNIooP7LHKTa68+nvGwR8+50SWVH9SxkBAGl0ESXKJcFUSyO1C9g==",
+  "dgSpecHash": "A2okhMRpeWdrpajWd6h56SXAyTmGXJ4/W4jjYlQJPQaVp6FBUSN5ylB0o6MmB80QAipNyHafMvo4FxpzacKT8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cliente\\OneDrive\\Área de Trabalho\\Projetos\\MVC\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "F:\\Pedro\\Projetos\\MVC-Example\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -172,7 +172,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
